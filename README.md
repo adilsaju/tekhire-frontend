@@ -1,4 +1,4 @@
-TEKK
+TEKHIRE
 
 Frontend Repo for Tekk
 
